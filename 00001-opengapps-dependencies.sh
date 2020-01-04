@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt -y install lzip
+sudo apt -y install lzip git-lfs
