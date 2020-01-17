@@ -5,6 +5,6 @@ Remember to add the following to your `~/.rattlesnakeos.toml` config file:
 
 ````toml
 [[custom-scripts]]
-  repo = "https://github.com/Bungeetaco/rattlesnakeos-scripts"
+  repo = "https://github.com/Bungeetaco/ros-scripts"
   scripts = [ "00002-custom-boot-animation.sh", ]
 ````
